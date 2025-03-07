@@ -57,7 +57,7 @@ function ProductDetails() {
 
   return (
     <div className="container my-5">
-      <Link to="/" className="btn btn-outline-primary mb-4">
+      <Link to="/module-3" className="btn btn-outline-primary mb-4">
         &larr; Back to Products
       </Link>
       
